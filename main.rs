@@ -4,4 +4,6 @@ fn main(){
   // Some more commit
   
   // Fixing Issue 3
+  
+  // Fixing Issue 4
 }
